@@ -1,0 +1,6 @@
+@demo.aws_HostAddress = http://localhost:5153
+
+GET {{demo.aws_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
